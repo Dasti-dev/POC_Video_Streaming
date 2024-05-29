@@ -1,9 +1,10 @@
 ## Video Streaming App
 
-Features:
+### Features:
 - Upload videos
 - Watch videos
-Technologies used:
+
+### Technologies used:
 - FFmpeg
 - Node.js
 - Express.js
